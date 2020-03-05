@@ -6,3 +6,5 @@ var animateCircles = anime({
     backgroundColor: '#FFF',
     autoplay: true
 });
+
+animateCircles.play()
