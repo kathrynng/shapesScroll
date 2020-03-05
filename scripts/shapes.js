@@ -1,4 +1,4 @@
-import anime from './animejs/lib/anime.js'
+const anime = require('animejs');
 
 var animateCircles = anime({
     targets:'.circle',
