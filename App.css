@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+html {
+  background-color: rgb(118,19,68);
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  
+}
+
+
+.logo{
+  width:50%;
+}

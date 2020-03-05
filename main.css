@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+html{
+    font-family: 'Rubik', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Bree Serif', sans-serif;
+    color:#0d136b;
+}
+
+.container{
+    font-size: 150%;
+    margin: 0 auto;
+    width: 80%;
+}
