@@ -1,4 +1,4 @@
-import anime from 'animejs/lib/anime.es.js'
+import anime from './animejs/lib/anime.js'
 
 var animateCircles = anime({
     targets:'.circle',
